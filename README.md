@@ -31,6 +31,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Github - [@mehmeterogul](https://www.github.com/mehmeterogul)
 - Frontend Mentor - [@mehmeterogul](https://www.frontendmentor.io/profile/mehmeterogul)
+- LinkedIn - [@mehmet-erogul](https://www.linkedin.com/in/mehmet-erogul)
 - Twitter - [@MehmetErogul96](https://www.twitter.com/MehmetErogul96)
